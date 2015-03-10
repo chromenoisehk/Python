@@ -1,3 +1,4 @@
+# -*- coding: cp949 -*-
 print('The capybara is the worlds largest rodent') # 작은 따음표 사용
 print("The capybara likes to live in groups")       # 큰 따음표 사용
 print('The "capybara" can swim')                    # 작은 따음표 안의 큰 따음표

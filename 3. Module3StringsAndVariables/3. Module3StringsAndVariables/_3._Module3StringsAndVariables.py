@@ -1,3 +1,4 @@
+# -*- coding: cp949 -*-
 name = input("What is your name ? ")    # name이라는 변수 안에 값을 대입
 print(name)                             # name에 지정된 변수값 출력
 name = "ABC"                            # name을 ABC라고 지정
