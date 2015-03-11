@@ -1,3 +1,4 @@
+# -*- coding: cp949 -*-
 area = 0
 height = 10
 width = 20

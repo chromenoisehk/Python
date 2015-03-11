@@ -1,3 +1,4 @@
+# -*- coding: cp949 -*-
 salary = input("please enter your salary ")
 bonus = input("Plz enter yout bonus ")
 PayCheckAmount = float(salary) + float(bonus)
